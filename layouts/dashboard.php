@@ -33,23 +33,23 @@
 					</a>
 				</li>
 				<li>
-					<a href="<?php echo URL; ?>/categories">
-						<img class="icon" src="<?php echo AST; ?>/img/menu.png" alt=""> Categories
-					</a>
-				</li>
-				<li>
-					<a href="<?php echo URL; ?>/posts">
-						<img class="icon" src="<?php echo AST; ?>/img/menu.png" alt=""> Post
-					</a>
-				</li>
-				<li>
 					<a href="<?php echo URL; ?>/users">
 						<img class="icon" src="<?php echo AST; ?>/img/menu.png" alt=""> Users
 					</a>
 				</li>
 				<li>
+					<a href="<?php echo URL; ?>/categories">
+						<img class="icon" src="<?php echo AST; ?>/img/menu.png" alt=""> Pendidik
+					</a>
+				</li>
+				<li>
+					<a href="<?php echo URL; ?>/posts">
+						<img class="icon" src="<?php echo AST; ?>/img/menu.png" alt=""> Tenaga Kependidikan
+					</a>
+				</li>
+				<li>
 					<a href="<?php echo URL; ?>/teachers">
-						<img class="icon" src="<?php echo AST; ?>/img/menu.png" alt=""> Guru
+						<img class="icon" src="<?php echo AST; ?>/img/menu.png" alt=""> Siswa
 					</a>
 				</li>
 				<li>
